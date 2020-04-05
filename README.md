@@ -1,6 +1,9 @@
 
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# Supervised Learning using Basic Machine Learning Algorithms
+## Project: Finding Donors for Charity
+
+### Description
+In this project, I employ several supervised algorithms in order to accurately model individuals' income using data collected from the 1994 U.S. Census
 
 ### Install
 
